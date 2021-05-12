@@ -78,7 +78,7 @@ For example:
 @Observed({ type: 'behavior' }) // default
 ```
 
-For details on `replayOption`, see the repository or see [RxJS ReplaySubject](https://rxjs-dev.firebaseapp.com/api/index/class/ReplaySubject)
+For details on `replayOptions`, see the repository or see [RxJS ReplaySubject](https://rxjs-dev.firebaseapp.com/api/index/class/ReplaySubject)
 
 #### Installation/Source Code
 
